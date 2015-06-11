@@ -1,5 +1,6 @@
 # Myproject
-STUDENTS SOLUTION An android app, that acts as intermidiatery  between the students among different colleges and between the professors and students.
+STUDENTS SOLUTION An android app, that acts as intermidiatery  between the students among different colleges and between the professors and students.Only the main activity is shown here.
+
 package com.example.sanju.pachhu;
 
 import android.content.Intent;
